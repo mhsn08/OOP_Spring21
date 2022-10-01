@@ -1,0 +1,41 @@
+Before Mid:
+1. Types of programming languages
+https://www.youtube.com/watch?v=0AQ4UvalAxs
+2. Evolution of high level languages
+https://www.youtube.com/watch?v=UlH6kvpFWhk
+3. First (Hello World program
+https://www.youtube.com/watch?v=ueV8eZ8EcWw
+4. Variables
+https://www.youtube.com/watch?v=3JLOw9emSPI
+5. Input and Endl manipulator
+https://www.youtube.com/watch?v=XNNKpLa_drE
+6. Operators
+https://www.youtube.com/watch?v=A8Ec6Ex2q94
+7. Implicit and explicit type casting
+https://www.youtube.com/watch?v=PDqzCaqtgoQ
+8. Decision and control statements
+https://www.youtube.com/watch?v=B_eiBzP_Rnw
+9. Structures
+https://www.youtube.com/watch?v=NZgW0W0Lgnk
+10. Classes
+https://www.youtube.com/watch?v=UFn_piVBVPM
+11. Constructors
+https://www.youtube.com/watch?v=zvGNcL2yjoI
+12. Constructors code
+https://www.youtube.com/watch?v=jtM5R4GUWDs
+13. Copy constructor, Objects in parameters, destructor, Private member functions
+https://www.youtube.com/watch?v=ZbqSsBixDTY
+14. Inheritance
+https://www.youtube.com/watch?v=L_lPX2cslxI
+15. Inheritance code
+https://www.youtube.com/watch?v=MeSmY1q22zI
+
+After Mid: (pay more attention to the after mid part)
+16. Polymorphism
+https://www.youtube.com/watch?v=tIw6gLyOFfI&list=PLtxumkqNwyiT8d8yoDOYFM9u0mCXeld6E&index=17
+17. Polymorphism
+https://www.youtube.com/watch?v=goWGU3UwWyo&list=PLtxumkqNwyiT8d8yoDOYFM9u0mCXeld6E&index=18
+18. Operator overloading
+https://www.youtube.com/watch?v=oH1tJJoinoM&list=PLtxumkqNwyiT8d8yoDOYFM9u0mCXeld6E&index=19
+19. Composition and aggregation
+(Not recorded)
